@@ -1,19 +1,19 @@
 {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/escaletech/tog-cli/releases/download/v0.3.0/tog_0.3.0_windows_386.zip",
+            "url": "https://github.com/escaletech/tog-cli/releases/download/v0.3.1/tog_0.3.1_windows_386.zip",
             "bin": [
                 "bin/tog.exe"
             ],
-            "hash": "6c45658d558d7f57037b5aa3ea7a4941c3b629fce33c144ec2b16dde1e575e33"
+            "hash": "ea738beab875d36ebc1633a8b577102c3ba318e7f2c80eecdeea5ef8c54f40cd"
         },
         "64bit": {
-            "url": "https://github.com/escaletech/tog-cli/releases/download/v0.3.0/tog_0.3.0_windows_amd64.zip",
+            "url": "https://github.com/escaletech/tog-cli/releases/download/v0.3.1/tog_0.3.1_windows_amd64.zip",
             "bin": [
                 "bin/tog.exe"
             ],
-            "hash": "c14223f0028854ec2dab50a6fe5b2298946ed23ab4218250ff338b046bd45f58"
+            "hash": "b6b2f8e3a84684d51ef1c391de94b18702d418b4f56963c336dec5d5a63ff6b4"
         }
     },
     "homepage": "https://github.com/escaletech/tog-cli",
